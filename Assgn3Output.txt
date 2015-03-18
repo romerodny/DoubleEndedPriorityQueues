@@ -1,0 +1,24 @@
+q1: [ Afdc Da Da Fda afdc fda ]
+q2: [ afdc Afdc Da Da fda Fda ]
+Completed first round of addions
+Completed first round of deletions
+Completed second round of addions
+1177
+1180
+1178
+1179
+Completed duplicate test
+10676
+q1: [ Afdc Da Da Fda afdc fda ]
+q2: [ afdc Afdc Da Da Fda fda ]
+Completed first round of addions
+Completed first round of deletions
+Completed second round of addions
+117293
+117296
+117294
+117295
+Completed duplicate test
+1531014
+Program reached end
+ELAPSED TIME IS 1386 MILLISECONDS
